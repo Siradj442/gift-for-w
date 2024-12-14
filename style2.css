@@ -1,0 +1,21 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    font-size: 43px;
+    color: red;
+    margin-left: 550px;
+}
+
+h2 {
+    font-size: 43px;
+    color: crimson;
+    margin-left: 370px
+}
+
+img {
+    border: solid 10px;
+    margin-left: 400px;
+    background-color: white;
+}
